@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="@/assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App (main lock + 1)" />
+    <HelloWorld msg="Welcome to Your Vue.js App (main lock + 2)" />
     <p>{{ apiBaseURL }}</p>
   </div>
 </template>
